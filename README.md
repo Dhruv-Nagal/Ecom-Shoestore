@@ -48,4 +48,12 @@ This project delivers a **seamless shopping experience**, featuring secure payme
 ---
 
 ## 📂 Project Structure
+/client → React frontend
+/server → Express.js backend
+/models → MongoDB schema models
+/routes → API routes (auth, product, cart, order, stripe)
+/config → Database connection & environment configs
+---
+
+
 
